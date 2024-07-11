@@ -11,7 +11,7 @@
   - Open the MediaPlayer file and select the imported FileMediaSource with your GIF
   
 - Create a material
-  - Set blend mode to masked
+  - Set blend mode to masked or Opaque
   - Make it so that its base color and emissive comes from a texture:
     - Add a texture sample Param2d to be the input parameter of these material attributes - link it to base color and emissive color
   - Add material params such as brightness, saturation etc to controll its quality
