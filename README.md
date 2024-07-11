@@ -20,6 +20,10 @@
 - Create a material instance out of the material
   - Assign the media texture with the GIF to this instance's Param2d: in Parameter Groups > Global texture parameter values > Texture
   - Adjust material params if needed
+ 
+- Open the media player
+  - Select loop option
+  - click on play for the gif animation to start playing on the material instance
 
 - Put a plain into the world
   - Assign the material instance to the plain
