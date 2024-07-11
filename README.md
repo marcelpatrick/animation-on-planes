@@ -9,7 +9,7 @@
 - Create a material
   - Set blend mode to masked
   - Make it so that its base color and emissive comes from a texture:
-  -   Add a texture sample Param2d to be the input parameter of these material attributes - link it to base color and emissive color
+    - Add a texture sample Param2d to be the input parameter of these material attributes - link it to base color and emissive color
 
 - Create a material instance out of the material
   - Assign the texture with the GIF to this instance's Param2d: in Parameter Groups > Global texture parameter values > Texture
