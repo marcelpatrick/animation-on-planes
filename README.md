@@ -8,7 +8,9 @@
  
 - Create a MediaPlayer file
   - Select the option for UE to automatically create a Media Texture file out of it
-  - Open the MediaPlayer file and select the imported FileMediaSource with your GIF
+  - Open the MediaPlayer file
+  - In PlayBack options > Decoder > select Electra Player
+  - and select the imported FileMediaSource with your GIF
   
 - Create a material
   - Set blend mode to masked or Opaque
