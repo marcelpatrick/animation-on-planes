@@ -1,7 +1,7 @@
 # animation-on-planes
 
-- download pluggin: Animated Texture with GIF Importer
-  - Copy the pluggins folder and copy inside your UE project folder
+- download pluggin: Animated Texture with GIF Importer - https://github.com/neil3d/UAnimatedTexture5 
+  - Copy the pluggins folder and copy inside your UE project root folder in the same location as the Contents folder
 
 - Import your GIF files into your UE project.
   - They will be automatically converted to FileMediaSource format
